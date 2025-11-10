@@ -73,4 +73,7 @@ function startSound() {
 
 function mouseReleased() {
   osc.amp(0, 0.2);
+
+
+  
 }
